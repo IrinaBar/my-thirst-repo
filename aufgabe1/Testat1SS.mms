@@ -8,4 +8,5 @@ BWait    IS    #13
 		LOC	#100
 	
 Main	TRAP  0,BWait,0
+		TRAP 0,BWait,0
 		TRAP	0,Halt,0
